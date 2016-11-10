@@ -1,4 +1,4 @@
-This folder contains the project.c file and AVR studio 5.1 project file
+This folder contains the project.c file and AVR studio 4/5.1 project file
 
 1. project.c  
    c file which has the complete code for auto-serving-bot
