@@ -42,9 +42,12 @@ Use browser to open http://localhost/php_server/index.html
 
 To install Android Studio refer : https://www.youtube.com/watch?v=merqX4Qftls
  
+To run FIREBIRD code: Open 2016-cs684-Auto Serving Bot\Code\Microcontroller Code\project folder. This folder contains .C and necessary.h files for installing firebird code.
+
 Demonstration Video 
 =========================  
 The screencast of installing and running website. https://youtu.be/qan71FzF_-A
 
 The screencast for using the Android project folder. https://youtu.be/VOe0TnxYKec
 
+The screencast for Firebird code installation.   https://youtu.be/x7jXf04MPCw
