@@ -13,6 +13,8 @@ The Project aims to automate the process of serving orders in restaurant by usin
 
 Demonstration Video 
 =========================  
+Full demonstartion video at https://youtu.be/CU4ev9Gp4gc
+
 The screencast of installing and running website. https://youtu.be/qan71FzF_-A
 
 The screencast for using the Android project folder. https://youtu.be/VOe0TnxYKec
